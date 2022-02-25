@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **VueJs and AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlmaDividida/David_Moreno-Portafolio](https://github.com/AlmaDividida/David_Moreno-Portafolio)
+- 👨‍💻 All of my projects are available at [https://almadividida.github.io/David_Moreno-Portafolio/](https://almadividida.github.io/David_Moreno-Portafolio/)
 
 - 💬 Ask me about **Spring Boot, Java and Angular projects**
 
